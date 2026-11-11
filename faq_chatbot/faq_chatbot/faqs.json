@@ -1,0 +1,310 @@
+{
+ "bot_name": "ShopEase Help",
+ "faqs": [
+  {
+   "id": "track",
+   "question": "How do I track my order?",
+   "keywords": [
+    "where is my order",
+    "order status",
+    "tracking number",
+    "track package",
+    "shipment status",
+    "where is my parcel",
+    "where is my package"
+   ],
+   "answer": "Go to My Orders, pick your order and tap Track. You will also get a tracking link by email and SMS once the order ships."
+  },
+  {
+   "id": "cancel",
+   "question": "How can I cancel my order?",
+   "keywords": [
+    "cancel purchase",
+    "stop my order",
+    "do not want order",
+    "remove order"
+   ],
+   "answer": "You can cancel from My Orders > Cancel Order until the order is shipped. After shipping, refuse delivery or start a return instead."
+  },
+  {
+   "id": "return",
+   "question": "What is your return policy?",
+   "keywords": [
+    "return item",
+    "send back product",
+    "can I return",
+    "return window",
+    "return period"
+   ],
+   "answer": "Most items can be returned within 10 days of delivery if they are unused and in original packaging. Start a return from My Orders > Return."
+  },
+  {
+   "id": "refund",
+   "question": "When will I get my refund?",
+   "keywords": [
+    "refund time",
+    "money back",
+    "how long refund",
+    "refund status",
+    "get my money",
+    "money to come back to my account",
+    "how many days for money to return",
+    "refund not received"
+   ],
+   "answer": "Refunds are issued within 5-7 business days after we receive the returned item. The money goes back to your original payment method."
+  },
+  {
+   "id": "shiptime",
+   "question": "How long does delivery take?",
+   "keywords": [
+    "shipping time",
+    "delivery days",
+    "when will it arrive",
+    "how many days",
+    "estimated delivery"
+   ],
+   "answer": "Standard delivery takes 3-7 business days. Express delivery takes 1-2 business days in major cities."
+  },
+  {
+   "id": "shipcost",
+   "question": "What are the shipping charges?",
+   "keywords": [
+    "delivery fee",
+    "free shipping",
+    "shipping cost",
+    "delivery charge",
+    "minimum order free delivery"
+   ],
+   "answer": "Shipping is free on orders above Rs. 499. Below that, a flat fee of Rs. 40 applies."
+  },
+  {
+   "id": "intl",
+   "question": "Do you ship internationally?",
+   "keywords": [
+    "deliver abroad",
+    "ship outside india",
+    "overseas delivery",
+    "other countries",
+    "international orders"
+   ],
+   "answer": "Not yet. We currently deliver only within India. International shipping is planned for later this year."
+  },
+  {
+   "id": "payment",
+   "question": "Which payment methods do you accept?",
+   "keywords": [
+    "how can I pay",
+    "credit card",
+    "debit card",
+    "UPI",
+    "net banking",
+    "wallet",
+    "accepted payments",
+    "can I pay with",
+    "pay using google pay",
+    "payment options",
+    "which cards are accepted"
+   ],
+   "answer": "We accept UPI, credit and debit cards, net banking, popular wallets and Cash on Delivery."
+  },
+  {
+   "id": "payfail",
+   "question": "My payment failed but money was deducted. What should I do?",
+   "keywords": [
+    "amount debited order not placed",
+    "payment error",
+    "transaction failed",
+    "money cut",
+    "double charged"
+   ],
+   "answer": "Do not worry. Failed payments are auto-refunded in 3-5 business days. If you do not get it by then, contact support with your transaction ID."
+  },
+  {
+   "id": "cod",
+   "question": "Is Cash on Delivery available?",
+   "keywords": [
+    "pay on delivery",
+    "COD",
+    "pay cash when delivered",
+    "pay at door"
+   ],
+   "answer": "Yes, COD is available on orders up to Rs. 5,000 at most pin codes. You will see the option at checkout if your address is eligible."
+  },
+  {
+   "id": "password",
+   "question": "How do I reset my password?",
+   "keywords": [
+    "forgot password",
+    "can not login",
+    "change password",
+    "login problem",
+    "unable to sign in"
+   ],
+   "answer": "On the login page tap Forgot Password, enter your email or phone number, and follow the link or OTP we send you."
+  },
+  {
+   "id": "account",
+   "question": "How do I create an account?",
+   "keywords": [
+    "sign up",
+    "register",
+    "new account",
+    "join",
+    "make account"
+   ],
+   "answer": "Tap Sign Up, enter your name, email and phone number, verify the OTP, and set a password. It takes under a minute."
+  },
+  {
+   "id": "address",
+   "question": "Can I change my delivery address after placing an order?",
+   "keywords": [
+    "wrong address",
+    "edit address",
+    "update shipping address",
+    "modify address"
+   ],
+   "answer": "You can change the address from My Orders until the order is packed. After that, contact support and we will try to update it with the courier."
+  },
+  {
+   "id": "damaged",
+   "question": "I received a damaged or wrong item. What now?",
+   "keywords": [
+    "broken product",
+    "defective item",
+    "incorrect product",
+    "missing item",
+    "item not as described"
+   ],
+   "answer": "Sorry about that. Report it within 48 hours from My Orders > Report an Issue with a photo. We will send a replacement or refund you."
+  },
+  {
+   "id": "warranty",
+   "question": "Do products come with a warranty?",
+   "keywords": [
+    "guarantee",
+    "warranty period",
+    "warranty claim",
+    "manufacturer warranty"
+   ],
+   "answer": "Electronics carry the manufacturer warranty, shown on the product page. Keep your invoice because you need it to claim warranty."
+  },
+  {
+   "id": "invoice",
+   "question": "How do I download my invoice?",
+   "keywords": [
+    "bill",
+    "GST invoice",
+    "receipt",
+    "tax invoice",
+    "purchase proof"
+   ],
+   "answer": "Open My Orders, select the order and tap Download Invoice. GST invoices are available once the order is delivered."
+  },
+  {
+   "id": "promo",
+   "question": "How do I apply a promo code?",
+   "keywords": [
+    "coupon",
+    "discount code",
+    "voucher",
+    "offer code",
+    "coupon not working"
+   ],
+   "answer": "Enter the code in the Apply Coupon box on the cart page. Check that your cart meets the minimum value and the code has not expired."
+  },
+  {
+   "id": "giftcard",
+   "question": "Do you sell gift cards?",
+   "keywords": [
+    "gift voucher",
+    "buy gift card",
+    "redeem gift card",
+    "present card"
+   ],
+   "answer": "Yes, gift cards from Rs. 500 to Rs. 10,000 are available. Redeem them at checkout by entering the card code."
+  },
+  {
+   "id": "contact",
+   "question": "How can I contact customer support?",
+   "keywords": [
+    "talk to agent",
+    "customer care number",
+    "help desk",
+    "email support",
+    "speak to someone",
+    "phone number"
+   ],
+   "answer": "Email support@shopease.example or call 1800-000-000 (toll free). You can also use Help > Chat with us in the app."
+  },
+  {
+   "id": "hours",
+   "question": "What are your customer support hours?",
+   "keywords": [
+    "support timing",
+    "when are you open",
+    "working hours",
+    "available time"
+   ],
+   "answer": "Support is available Monday to Saturday, 9 AM to 8 PM IST. Email is monitored round the clock."
+  },
+  {
+   "id": "delete",
+   "question": "How do I delete my account and data?",
+   "keywords": [
+    "close account",
+    "remove my data",
+    "privacy",
+    "deactivate account",
+    "erase profile"
+   ],
+   "answer": "Go to Settings > Privacy > Delete Account. Your data is removed within 30 days, except records we must keep for tax purposes."
+  },
+  {
+   "id": "emi",
+   "question": "Do you offer EMI options?",
+   "keywords": [
+    "installments",
+    "pay in parts",
+    "no cost EMI",
+    "monthly payment",
+    "easy payments"
+   ],
+   "answer": "Yes, EMI is available on orders above Rs. 3,000 with selected credit cards. Choose EMI at checkout to see plans."
+  },
+  {
+   "id": "late",
+   "question": "My order has not arrived yet. What should I do?",
+   "keywords": [
+    "delayed delivery",
+    "order late",
+    "package not delivered",
+    "still waiting",
+    "missing parcel"
+   ],
+   "answer": "Check the latest status in My Orders > Track. If it is past the delivery date, contact support with your order ID and we will chase the courier."
+  },
+  {
+   "id": "exchange",
+   "question": "Can I exchange a product for a different size or colour?",
+   "keywords": [
+    "swap item",
+    "change size",
+    "different color",
+    "replace product size"
+   ],
+   "answer": "Yes, exchanges are allowed within 10 days for clothing and footwear, subject to stock. Choose Exchange in My Orders."
+  },
+  {
+   "id": "stock",
+   "question": "What if an item is out of stock?",
+   "keywords": [
+    "notify me",
+    "back in stock",
+    "unavailable product",
+    "sold out",
+    "restock"
+   ],
+   "answer": "Tap Notify Me on the product page and we will email you as soon as it is back in stock."
+  }
+ ]
+}
